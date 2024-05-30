@@ -1,0 +1,12 @@
+H1,food,52.351
+H1,education,200.57
+H2,rent,60.550
+H3,food,164.332
+H3,entertainment,56.16
+H4,education,308.491
+H5,health,681.950
+H6,entertainment,546.216
+H7,transport,323.566
+H7,health,81.5
+H8,education,1321.564
+H8,food,121.6
